@@ -9,7 +9,7 @@
 |Entrevistado (nombre o alias)|César Augusto Mazariegos Calderón|
 |¿Por qué es usuario real del tema?|Es un adulto mayor de 76 años que entrega regalos a familiares, conocidos y miembros de su grupo de iglesia. Busca los regalos en comercios físicos de Quetzaltenango o los elabora personalmente.|
 |Fecha y duración|Julio de 2026. La duración no quedó registrada en el documento de la entrevista.|
-|Evidencia (archivo en `entrevistas/`)|`entrevistas/Entrevista 1 Cesar Mazariegos - Evidencia  - Andrés López 202308054.pdf`|
+|Evidencia (archivo en `entrevistas/`)|`entregas/S02/entrevistas/entrevista_1_cesar_augusto_mazariegos_calderon.pdf`|
 
 ## 🗣️ DICE — lo que dijo en voz alta
 
