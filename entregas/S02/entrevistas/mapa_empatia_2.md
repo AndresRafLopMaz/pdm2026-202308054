@@ -9,7 +9,7 @@
 |Entrevistado (nombre o alias)|Carolina Lissette Mazariegos Velásquez|
 |¿Por qué es usuario real del tema?|Es una mujer de 49 años que compra regalos para familiares, seres queridos, compañeros, subordinados y voluntarios norteamericanos. Utiliza tiendas físicas, redes sociales y páginas de compra para comparar alternativas.|
 |Fecha y duración|Julio de 2026. La duración no quedó registrada en el documento de la entrevista.|
-|Evidencia (archivo en `entrevistas/`)|`entrevistas/Entrevista 2 Carolina Mazariegos - Evidencia - Andrés López 202308054.pdf`|
+|Evidencia (archivo en `entrevistas/`)|`entregas/S02/entrevistas/entrevista_2_carolina_lissette_mazariegos_velasquez.pdf`|
 
 ## 🗣️ DICE — lo que dijo en voz alta
 
